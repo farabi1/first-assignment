@@ -1,4 +1,43 @@
-*{
-    margin: 0;
-    padding: 0;
+body{
+    font-family: 'Poppins', sans-serif;
 }
+
+/* PART 1 DESIGN START */
+
+h1{
+    font-size: 50px;
+}
+
+.color-blue{
+    color: dodgerblue;
+}
+
+
+.focus{
+    display: flex;
+}
+
+.focus-half-width{
+    width: 50%;
+    padding-left: 300px ;
+}
+
+.focus-half-width img {
+    width: 50%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(dodgerblue,blue);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.focus-headings{
+    border-radius: 5px;
+    border-left: 5px solid dodgerblue;
+}
+
+/* PART 1 DESIGN END */
+
