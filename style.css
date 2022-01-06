@@ -58,6 +58,19 @@ h1{
     color: dodgerblue;
 }
 
+.mission-container{
+    display: flex;
+}
+
+.mission-card{
+    background-color: #4F9DA6;
+}
+.vision-card{
+    background-color: #FF5959;
+}
+.goals-card{
+    background-color: #FFF4D6;
+}
 
 
 
