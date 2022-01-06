@@ -129,9 +129,19 @@ h1{
 
 /* PART 5 DESIGN START  */
 
+.advertise{
+    display: flex;
+}
+.advertise-half{
+    width: 50%;
+    padding-left: 70px;
+    margin: 20px;
 
+}
 
-
+.advertise-heading{
+    color: dodgerblue;
+}
 
 
 
