@@ -23,8 +23,13 @@ h1{
 
 }
 
+.focus-half-width{
+    width: 50%;
+} 
+
 .focus-half-width img {
-    width: 350px;
+    width: 300px;
+    margin-left: 300px;
 }
 
 .link-button{
