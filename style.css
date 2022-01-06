@@ -44,6 +44,11 @@ h1{
     font-weight: 700;
     border-radius: 5px;
 }
+.link-button:hover{
+    background-image: linear-gradient(blue,dodgerblue);
+    color: white;
+}
+
 .focus-headings{
     border-radius: 5px;
     border-left: 5px solid dodgerblue;
