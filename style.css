@@ -52,6 +52,7 @@ h1{
 
 .develop-limits{
     display: flex;
+    margin-bottom: 20px;
 }
 
 .develop-limits-half{
@@ -70,6 +71,7 @@ h1{
 
 .know-community{
     display: flex;
+    margin-bottom: 20px;
 }
 .know-community-half{
     width: 50%;
