@@ -1,7 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
-    padding: 0;
+
 }
 
 /* PART 1 DESIGN START */
@@ -50,6 +49,7 @@ h1{
 
 /* PART 2 DESIGN START  */
 
+
 .mission-heading{
     text-align: center;
 }
@@ -60,16 +60,29 @@ h1{
 
 .mission-container{
     display: flex;
+    margin: 5px;
+    padding: 5px;
 }
 
 .mission-card{
-    background-color: #4F9DA6;
+    background-color: rgb(79,156,166,0.3);
+    border-radius: 5%;
+    margin: 10px;
+    padding: 10px;
 }
+
 .vision-card{
-    background-color: #FF5959;
+    background-color:rgb(255,89,89,0.3);
+    border-radius: 5%;
+    margin: 10px;
+    padding: 10px;
 }
+
 .goals-card{
-    background-color: #FFF4D6;
+    background-color: rgb(255,244,214,0.3);
+    border-radius: 5%;
+    margin: 10px;
+    padding: 10px;
 }
 
 
