@@ -112,16 +112,18 @@ h1{
 
 .develop-limits{
     display: flex;
-    margin-bottom: 20px;
+    width: 80%;
+    margin: 0 auto;
+   
 }
 
 .develop-limits-half{
     width: 50%;
-    padding-left: 70px;
+    
 }
 
 .develop-limits-half img{
-    width: 50%;
+    width: 400px;
 }
 
 /* PART 3 DESIGN END  */
@@ -131,14 +133,16 @@ h1{
 
 .know-community{
     display: flex;
-    margin-bottom: 20px;
+    width: 80%;
+    margin: 0 auto;    
 }
+
 .know-community-half{
     width: 50%;
-    padding-left: 70px;
+    
 }
 .know-community-half img{
-    width: 50%;
+    width: 400px;
 }
 
 
@@ -149,10 +153,11 @@ h1{
 
 .advertise{
     display: flex;
+    width: 80%;
+    margin: 0 auto;
 }
 .advertise-half{
     width: 50%;
-    padding-left: 70px;
     margin: 20px;
 
 }
@@ -181,7 +186,8 @@ h1{
 }
 
 .footer-heading{
-    font-family: 'Dancing Script';
+    font-family: 'Lobster Two';
+    
 }
 
 .footer-text{
