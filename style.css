@@ -5,7 +5,7 @@ body{
 /* PART 1 DESIGN START */
 
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .color-blue{
@@ -19,7 +19,9 @@ h1{
 
 .focus-half-width{
     width: 50%;
-    padding-left: 300px ;
+    margin: 15px;
+    padding-left: 70px ;
+    
 }
 
 .focus-half-width img {
