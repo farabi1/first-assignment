@@ -22,15 +22,6 @@ h1{
     margin: 0 auto;
 
 }
-.focus-headings{
-    /* padding: 10px; */
-}
-
-.focus-half-width{
-    /* width: 50%;
-    padding-left: 70px ;
-     */
-}
 
 .focus-half-width img {
     width: 350px;
@@ -43,10 +34,12 @@ h1{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+    transition: 0.5s;
 }
 .link-button:hover{
     background-image: linear-gradient(blue,dodgerblue);
     color: white;
+    cursor: pointer;
 }
 
 .focus-headings{
@@ -60,8 +53,9 @@ h1{
 /* PART 2 DESIGN START  */
 
 
-.mission-heading{
+.mission{
     text-align: center;
+    margin-top: 50px;
 }
 
 .mission-heading-year{
@@ -70,8 +64,9 @@ h1{
 
 .mission-container{
     display: flex;
-    margin: 5px;
-    padding: 5px;
+    justify-content: space-evenly;
+    margin: 15px;
+    padding: 50px;
 }
 
 .mission-card{
@@ -79,6 +74,11 @@ h1{
     border-radius: 5%;
     margin: 10px;
     padding: 10px;
+    width: 400px;
+}
+
+.mission-card-image img{
+    width: 100%;
 }
 
 .vision-card{
@@ -86,6 +86,11 @@ h1{
     border-radius: 5%;
     margin: 10px;
     padding: 10px;
+    width: 400px;
+}
+
+.vision-card-image img{
+    width: 100%;
 }
 
 .goals-card{
@@ -93,6 +98,11 @@ h1{
     border-radius: 5%;
     margin: 10px;
     padding: 10px;
+    width: 400px;
+}
+
+.goals-card-image img{
+    width: 100%;
 }
 
 /* PART 2 DESIGN END  */
