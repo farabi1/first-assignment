@@ -36,6 +36,7 @@ h1{
     border-radius: 5px;
     transition: 0.5s;
 }
+
 .link-button:hover{
     background-image: linear-gradient(blue,dodgerblue);
     color: white;
@@ -183,6 +184,22 @@ h1{
 .advertise-half-img img{
     width: 400px;
     
+}
+
+.link-button-delete{
+    text-decoration: none;
+    background-image: linear-gradient(red,rgb(143, 56, 56));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.link-button-delete:hover{
+    background-image: linear-gradient(rgb(143, 56, 56),red);
+    color: white;
+    cursor: pointer;
 }
 
 /* PART 5 DESIGN END  */
