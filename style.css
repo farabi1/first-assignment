@@ -45,3 +45,37 @@ h1{
 
 /* PART 1 DESIGN END */
 
+
+/* PART 3 DESIGN START  */
+
+.develop-limits{
+    display: flex;
+}
+
+.develop-limits-half{
+    width: 50%;
+    padding-left: 70px;
+}
+
+.develop-limits-half img{
+    width: 50%;
+}
+
+/* PART 3 DESIGN END  */
+
+
+/* PART 4 DESIGN START  */
+
+.know-community{
+    display: flex;
+}
+.know-community-half{
+    width: 50%;
+    padding-left: 70px;
+}
+.know-community-half img{
+    width: 50%;
+}
+
+
+/* PART 4 DESIGN END  */
