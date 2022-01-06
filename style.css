@@ -16,10 +16,12 @@ h1{
 .focus{
     display: flex;
 }
+.focus-headings{
+    padding: 10px;
+}
 
 .focus-half-width{
     width: 50%;
-    margin: 15px;
     padding-left: 70px ;
     
 }
